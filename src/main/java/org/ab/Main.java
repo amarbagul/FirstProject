@@ -14,6 +14,6 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.println("New changes");
+        System.out.println("New branch changes");
     }
 }
